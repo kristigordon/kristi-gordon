@@ -44,12 +44,12 @@ background-color: red;
 }
 
 #first-row {
-  text-align: center;
-  /* display: flex;
+  display: flex;
   flex-direction: row;
   align-items: center;
   padding-top: 40px;
-  padding-bottom: 40px; */
+  padding-bottom: 40px;
+  justify-content: center;
 }
 
 .classcenter div:nth-child(2){
